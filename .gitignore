@@ -1,0 +1,10 @@
+# CoAnalyst runtime artifacts
+.coanalyst/events/
+.coanalyst/state/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
